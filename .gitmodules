@@ -1,0 +1,3 @@
+[submodule "external/VYPlayIndicator"]
+	path = external/VYPlayIndicator
+	url = https://github.com/drasticactions/VYPlayIndicator
